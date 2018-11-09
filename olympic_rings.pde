@@ -43,4 +43,4 @@ ellipse(225,150,80,80);
 
 
 //save
-save("WILLIAM_TSUI.OlympicRings.Drawing.png");
+
